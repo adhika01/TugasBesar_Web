@@ -12,7 +12,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Toko Buku Maju Mundur</title>
+    <title>Toko Buku Maju </title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?php echo base_url();?>assets/dist/css/bootstrap.min.css" rel="stylesheet">
